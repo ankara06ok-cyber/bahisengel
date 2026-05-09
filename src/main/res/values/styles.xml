@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.BahisEngel" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#E74C3C</item>
+        <item name="colorPrimaryDark">#C0392B</item>
+        <item name="colorAccent">#E74C3C</item>
+        <item name="android:windowBackground">#0f0f1a</item>
+    </style>
+</resources>
